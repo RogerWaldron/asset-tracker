@@ -1,0 +1,3 @@
+/BlazorApp/bin/*
+/BlazorApp/obj/*
+.env.*
